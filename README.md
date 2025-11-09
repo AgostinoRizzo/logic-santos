@@ -37,7 +37,7 @@ The city center is inspired by the urban centers of classic Californian cities. 
 
 
 ## Usage
-*   As a prerequisite, install the [jMonkeyEngine SDK](https://github.com/jMonkeyEngine/sdk/releases) (Java Virtual Machine v8 or higher is required). Use the [wiki](https://wiki.jmonkeyengine.org/docs/3.8/documentation.html) to find the installation guide and tutorials.\
+*   As a prerequisite, install the [jMonkeyEngine SDK](https://github.com/jMonkeyEngine/sdk/releases) (Java Virtual Machine v8 or higher is required). Use the [wiki](https://wiki.jmonkeyengine.org/docs/3.8/documentation.html) to find the installation guide and tutorials
 *   Clone the game repository via:
 
     ```
@@ -45,14 +45,14 @@ The city center is inspired by the urban centers of classic Californian cities. 
     cd logic-santos
     ```
 
-*   Download the [`Assets.zip`](mailto:agostino.rizzo@outlook.com) archive and extract it obtaining the new `logic-santos/Assets` directory.
+*   Download the [`Assets.zip`](mailto:agostino.rizzo@outlook.com) archive and extract it obtaining the new `logic-santos/Assets` directory
 *   Start the Java application via:
 
     ```
     java it.unical.logic_santos.gui.application.LogicSantosApplication
     ```
 
-    *Use the main class* `it.unical.logic_santos.editor.application.LogicSantosEditorApplication` *to start the game editor.*
+    *Use the main class* `it.unical.logic_santos.editor.application.LogicSantosEditorApplication` *to start the game editor*
 
 
 
