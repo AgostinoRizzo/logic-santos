@@ -1,7 +1,7 @@
 Logic Santos Valley
 ===
 
-Logic Santos Valley is a 3D action-adventure video game developed in Java using the [JMonkeyEngine](https://jmonkeyengine.org/) library. The game location is set in the state of California and offers the player the ability to freely move around the fictional city of Logic Santos. Online gameplay is also supported!\
+Logic Santos Valley is a 3D action-adventure video game developed in Java using the [jMonkeyEngine](https://jmonkeyengine.org/) library. The game location is set in the state of California and offers the player the ability to freely move around the fictional city of Logic Santos. Online gameplay is also supported!\
 This project was developed in the context of the *Graphical Interfaces and Event-Oriented Programming* course during the bachelor's degree in Computer Science.
 
 ![Wallpaper](./Images/wallpaper.png "Wallpaper")
@@ -34,6 +34,26 @@ The city center is inspired by the urban centers of classic Californian cities. 
         <td><img alt="Gameplay 9" title="Gameplay 9" src="./Images/gameplay_9.png"></td>
     </tr>
 </table>
+
+
+## Usage
+*   As a prerequisite, install the [jMonkeyEngine SDK](https://github.com/jMonkeyEngine/sdk/releases) (Java Virtual Machine v8 or higher is required). Use the [wiki](https://wiki.jmonkeyengine.org/docs/3.8/documentation.html) to find the installation guide and tutorials.\
+*   Clone the game repository via:
+
+    ```
+    git clone https://github.com/AgostinoRizzo/logic-santos.git
+    cd logic-santos
+    ```
+
+*   Download the [`Assets.zip`](mailto:agostino.rizzo@outlook.com) archive and extract it obtaining the new `logic-santos/Assets` directory.
+*   Start the Java application via:
+
+    ```
+    java it.unical.logic_santos.gui.application.LogicSantosApplication
+    ```
+
+    *Use the main class* `it.unical.logic_santos.editor.application.LogicSantosEditorApplication` *to start the game editor.*
+
 
 
 ## UML Design
