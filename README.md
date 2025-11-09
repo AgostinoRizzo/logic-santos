@@ -45,7 +45,7 @@ The city center is inspired by the urban centers of classic Californian cities. 
     cd logic-santos
     ```
 
-*   Download the [`Assets.zip`](mailto:agostino.rizzo@outlook.com) archive and extract it obtaining the new `logic-santos/Assets` directory
+*   Download the [`Assets.zip`](https://drive.google.com/file/d/1H1KKjvoBkYBwAsH3wXj_9MKma0qNzHrL/view?usp=sharing) archive and extract it obtaining the new `logic-santos/Assets` directory
 *   Start the Java application via:
 
     ```
