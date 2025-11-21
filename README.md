@@ -188,6 +188,8 @@ Interfaces and classes in the **System Interfaces** `jar`:
     * `WantedStarsLoggingEvent`
     * ...
 
+See [Logic Santos Missions](https://github.com/AgostinoRizzo/logic-santos-missions) as a java project to develop external missions.
+
 
 ## Logging
 The mission system and its development are based on a **logging system** made available to the *logic-core* of the game. Appropriate interfaces are dedicated to identify and interact with relevant gameplay events through a dedicated logger. For example, a `MissionLogger` is used to record the events required for the various mission implementations.
